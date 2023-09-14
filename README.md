@@ -24,11 +24,11 @@ This is a Music Ear Training App built for Android using Python and the Kivy fra
 
 1. Clone the repository
     ```
-    git clone https://github.com/your-username/music-ear-training.git
+    git clone https://github.com/Software-Engineering-Jagiellonian/melowise.git
     ```
 2. Change into the directory
     ```
-    cd music-ear-training
+    cd melowise
     ```
 3. Install the requirements
     ```
